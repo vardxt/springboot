@@ -1,3 +1,3 @@
 # springboot
 
-Webhook enabled
+Webhooks enabled
