@@ -2,4 +2,4 @@
 
 Webhooks enabled
 --
-Test new bug in jenkins test failed
+Test new bug in jenkins test passed
